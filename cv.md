@@ -29,7 +29,7 @@ Telegram: @lubava11
 
 ---
 
-## Пример кода _(ваш)_
+## Пример кода - ваш
 
 _function multiply(a, b){
 a _ b
